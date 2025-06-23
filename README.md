@@ -703,10 +703,6 @@
 
 你希望我优先为你准备哪一个？欢迎随时告诉我！
 
-[1]: https://www.notion.com/templates/organize-investigation-projects?utm_source=chatgpt.com "Organize investigation projects Template | Notion Marketplace"
-[2]: https://clickup.com/templates/notion/investigation-report?utm_source=chatgpt.com "Investigation Report Template for Notion | Template by ClickUp™"
-[3]: https://notionstack.so/blog/notion-templates-for-notion-ai?utm_source=chatgpt.com "The Best Notion Templates with Notion AII"
-
 ---
 
 提升自信心是一个可以通过日常练习和心态调整实现的过程。以下是一些被广泛认可且有效的方法，适合你在事业和生活中实践：
@@ -741,14 +737,6 @@
 
 坚持下去，你会发现自信心会一点点累积，帮助你在事业和生活中更加从容。
 
-[1] https://m.36kr.com/p/1761567342754054
-[2] https://treehole.hk/psychology/%E8%87%AA%E4%BF%A1-%E8%87%AA%E5%8D%91/
-[3] https://sislin.com.tw/self-confidence/
-[4] https://www.mayoclinic.org/zh-hans/healthy-lifestyle/stress-management/in-depth/assertive/art-20044644
-[5] https://vocus.cc/article/6659afbdfd89780001f61a10
-[6] http://henan.sina.cn/health/mrzx/2017-09-13/detail-ifykusey9674583.d.html
-[7] https://www.hkfygwellnessplus.org/%E8%87%AA%E4%BF%A1%E5%BF%83%E6%8F%90%E5%8D%87
-[8] https://www.nbufe.edu.cn/xl/show.htm?typeid=919&typeid2=919&id=66272
 
 ---
 
@@ -777,14 +765,6 @@
 
 坚持这些方法，你会发现自己表达的勇气和自信会一点点提升，生活也会变得更加自在和主动。
 
-[1] https://www.juguandian.com/blog_q/well/7-ways-to-feel-more-courageous-5089058_cn
-[2] https://www.xinli001.com/info/100487834
-[3] https://jingyan.baidu.com/article/d2b1d102cd4c895c7e37d417.html
-[4] https://m.36kr.com/p/1761567342754054
-[5] https://www.jiemian.com/article/3477041.html
-[6] https://oleaandfig.com/tw-blog/find-courage-to-make-changes
-[7] https://www.ximalaya.com/ask/q4919650
-[8] https://www.darencademy.com/article/view/id/16942
 
 ---
 
@@ -874,11 +854,6 @@
 #### 结论
 通过分析诸葛亮的思维方式及其与普通人的差异，我们可以看到其战略性、前瞻性和创新性的优势。模仿这些特点，可以在职业发展和社会立足中获得显著帮助。无论是设定长期目标、培养技能，还是坚持原则和创新，这些建议都为现代个人发展提供了清晰路径。
 
-#### 关键引文
-- [Britannica - Zhuge Liang的传记，分析其战略天才](https://www.britannica.com/biography/Zhuge-Liang)
-- [Koei Wiki - 诸葛亮的智慧与忠诚，游戏视角](https://koei.fandom.com/wiki/Zhuge_Liang)
-- [Pro-Papers - 从历史人物中学习个人成长的启发](https://pro-papers.com/samples/life/my-role-model/learning-from-historical-figures)
-- [StartGainingMomentum - 学习历史如何提升个人发展](https://startgainingmomentum.com/role-history-plays-personal-development-study/)
 
 ---
 
@@ -983,12 +958,6 @@
 #### 结论  
 通过分析诸葛亮的远见与预测能力，我们可以看到其战略性、前瞻性和创新性的优势。模仿这些特点，可以在个人发展和职业生涯中获得显著帮助。无论是深入研究、广泛学习，还是坚持原则和创新，这些建议都为现代个人发展提供了清晰路径。
 
-#### 关键引文  
-- [古战史：诸葛亮的智慧与领导艺术](https://ancientwarhistory.com/the-timeless-wisdom-of-zhuge-liang-strategy-serenity-and-the-art-of-leadership/)  
-- [维基百科：诸葛亮](https://en.wikipedia.org/wiki/Zhuge_Liang)  
-- [历史上的诸葛亮：锦囊妙计](https://www.historychn.com/196)  
-- [道之战略：诸葛亮](http://daoofstrategy.blogspot.com/2012/11/zhuge-liang-kong-ming-hidden-dragon-of.html)  
-- [道之战略：诸葛亮的将军之道](http://daoofstrategy.blogspot.com/2013/07/zhuge-liangs-way-of-general_31.html)
 
 ---
 
@@ -1065,9 +1034,7 @@ MECE 原则强调将问题拆解为相互独立、完全穷尽的子问题。​
 
 
 ---
----
----
----
+
 
 ​项目管理的核心要素可以根据不同的管理框架和实践经验进行归纳，主要包括以下几个方面：​
 
@@ -1243,13 +1210,6 @@ MECE 原则强调将问题拆解为相互独立、完全穷尽的子问题。​
 
 ---
 
-### 关键引用
-- [LáYínká Sánní - 如何识别、打断并转变生活模式](https://layinkasanni.com/how-to-recognise-interrupt-and-transform-your-life-patterns)
-- [Tiny Buddha - 识别我们的模式并学习如何改变它们](https://tinybuddha.com/blog/recognizing-our-patterns-and-learning-how-to-change-them/)
-- [James Van Praagh - 识别你生活的模式](https://vanpraagh.com/recognizing-the-patterns-of-your-life/)
-- [EOFire - 旅行准备：整理你的旅行计划](https://www.eofire.com/trip-prep-getting-your-travel-in-order/)
-- [The Wandering Blonde - 如何规划旅行：初学者指南](https://thewanderingblonde.com/2019/01/02/how-to-plan-a-trip/)
-- [Bon Traveler - 旅行规划第3部分：规划行程](https://www.bontraveler.com/travel-planning-part-3-planning-the-itinerary/)
 
 ---
 
@@ -1342,14 +1302,6 @@ MECE 原则强调将问题拆解为相互独立、完全穷尽的子问题。​
 
 这些方法适用于各类职场人士，有助于提升效率、减少压力，实现职业成长。
 
-[1] https://www.sohu.com/a/279071223_99927821
-[2] https://www.zhihu.com/question/23219973
-[3] https://www.zhihu.com/question/20217019
-[4] https://boardmix.cn/article/18-efficient-work-models/
-[5] http://www.360doc.com/content/14/0123/12/1117434_347311170.shtml
-[6] https://www.sohu.com/a/257821470_608787
-[7] https://www.robertwalters.com.tw/zh/insights/career-advice/blog/looking-for-a-fulfilling-job-ask-yourself-these-6-key-questions.html
-[8] https://www.michaelpage.com.cn/advice/career-advice/productivity-and-performance/10-tips-working-smarter
 
 ---
 
@@ -1370,11 +1322,4 @@ MECE 原则强调将问题拆解为相互独立、完全穷尽的子问题。​
 
 持续应用这些方法和思维模型，并在实际工作中反复练习、总结和优化，能有效提升你的工作效率和思考能力[2][5][6]。
 
-[1] http://www.360doc.com/content/23/1005/07/10096_1099009966.shtml
-[2] https://blog.csdn.net/godlovedaniel/article/details/148100913
-[3] https://www.madewill.com/thinking-model/the-mystery-of-three.html
-[4] https://news.mbalib.com/story/255789
-[5] https://www.madewill.com/emotion-and-psychology/deep-work.html
-[6] http://www.360doc.com/content/22/1226/00/31263000_1061442906.shtml
-[7] https://tingji.baidu.com/embed/listenshare?note_id=388203&uk=1099755155836&explore_id=26949
-[8] https://js.design/special/article/workplace-thinking-models.html
+
